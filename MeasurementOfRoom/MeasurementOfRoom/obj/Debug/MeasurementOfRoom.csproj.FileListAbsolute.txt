@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab 2\MeasurementOfRoom\MeasurementOfRoom\obj\Debug\MeasurementOfRoom.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab 2\MeasurementOfRoom\MeasurementOfRoom\obj\Debug\MeasurementOfRoom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab 2\MeasurementOfRoom\MeasurementOfRoom\bin\Debug\MeasurementOfRoom.exe.config
+C:\Users\User\source\repos\Lab 2\MeasurementOfRoom\MeasurementOfRoom\bin\Debug\MeasurementOfRoom.exe
+C:\Users\User\source\repos\Lab 2\MeasurementOfRoom\MeasurementOfRoom\bin\Debug\MeasurementOfRoom.pdb
+C:\Users\User\source\repos\Lab 2\MeasurementOfRoom\MeasurementOfRoom\obj\Debug\MeasurementOfRoom.exe
+C:\Users\User\source\repos\Lab 2\MeasurementOfRoom\MeasurementOfRoom\obj\Debug\MeasurementOfRoom.pdb
+C:\Users\User\source\repos\Week1\Lab 2\MeasurementOfRoom\MeasurementOfRoom\bin\Debug\MeasurementOfRoom.exe.config
+C:\Users\User\source\repos\Week1\Lab 2\MeasurementOfRoom\MeasurementOfRoom\bin\Debug\MeasurementOfRoom.exe
+C:\Users\User\source\repos\Week1\Lab 2\MeasurementOfRoom\MeasurementOfRoom\bin\Debug\MeasurementOfRoom.pdb
+C:\Users\User\source\repos\Week1\Lab 2\MeasurementOfRoom\MeasurementOfRoom\obj\Debug\MeasurementOfRoom.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Week1\Lab 2\MeasurementOfRoom\MeasurementOfRoom\obj\Debug\MeasurementOfRoom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week1\Lab 2\MeasurementOfRoom\MeasurementOfRoom\obj\Debug\MeasurementOfRoom.exe
+C:\Users\User\source\repos\Week1\Lab 2\MeasurementOfRoom\MeasurementOfRoom\obj\Debug\MeasurementOfRoom.pdb
