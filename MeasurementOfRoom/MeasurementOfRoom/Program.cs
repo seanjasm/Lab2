@@ -10,6 +10,7 @@ namespace MeasurementOfRoom
         begin_label:
 
             double length, width, height = 0.0;
+            double volume, area, perimeter = 0.0;
 
             Console.Clear();
 
@@ -39,11 +40,15 @@ namespace MeasurementOfRoom
                 Console.Write("\n\aThere was an error.\n\nEnter a valid decimal as room width:  ");
             }
 
+            area = length * width;
+            perimeter = (length * 2) + (width * 2);
+            volume = area * height;
+
             Console.WriteLine("\n\n\nL: {0}   W: {1}    H: {2}" +
                 "\n\n\nArea: {3} units square\n\nPerimeter: {4} unit\n\nVolume: {5} units cube\n\n",
-                length, width, height, length * width, (length * 2 + width * 2), length * width * height);
+                length, width, height, area, perimeter, volume);
 
-            Console.Write("Press [N] to quit: ");
+            Console.Write("Enter <N> to quit: ");
 
             if (Console.ReadLine().ToLower() != "n")
             {
